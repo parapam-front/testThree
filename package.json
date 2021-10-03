@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "three": "^0.133.0",
+    "three-gltf-loader": "^1.111.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
